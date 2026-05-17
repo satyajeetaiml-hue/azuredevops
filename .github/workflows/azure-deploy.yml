@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: <your-web-app-name>
+  AZURE_WEBAPP_NAME: fastapi-devops-app-sj5917
   PYTHON_VERSION: '3.11'
 
 jobs:
