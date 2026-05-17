@@ -1,0 +1,7 @@
+publish-profile.xml
+azure-credentials.json
+*.PublishSettings
+__pycache__/
+*.py[cod]
+venv/
+.venv/
